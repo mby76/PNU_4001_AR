@@ -1,7 +1,7 @@
 # PNU_4001_AR
 # - مژگان میرزابیگی
 - [Github](https://github.com/mby76)
-- [PNU_4001_AR](https://github.com/mby76/PNU_3991_AR)
+- [PNU_4001_AR](https://github.com/mby76/PNU_4001_AR)
 - [Resume](MyResume.pdf)
 - [SOP](SOP.PDF)
 - [Js Certificate](html.pdf)
